@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.MotionPrompt.cpp.obj": [
+			"AnimationDataManager.gen.cpp.obj",
+			"MotionPrompt.init.gen.cpp.obj",
+			"PromptManager.gen.cpp.obj",
+			"AnimationDataManager.cpp.obj",
+			"MotionPrompt.cpp.obj",
+			"PromptManager.cpp.obj"
+		]
+	}
+}

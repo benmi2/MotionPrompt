@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-MotionPrompt.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\benmi\Documents\Unreal Projects\AnimationGenerator\Intermediate\Build\Win64\x64\AnimationGeneratorEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h.obj"
+"C:\Users\benmi\Documents\Unreal Projects\AnimationGenerator\Plugins\MotionPrompt\Intermediate\Build\Win64\x64\UnrealEditor\Development\MotionPrompt\Module.MotionPrompt.cpp.obj"
+"C:\Users\benmi\Documents\Unreal Projects\AnimationGenerator\Plugins\MotionPrompt\Intermediate\Build\Win64\x64\UnrealEditor\Development\MotionPrompt\Default.rc2.res"
+/OUT:"C:\Users\benmi\Documents\Unreal Projects\AnimationGenerator\Plugins\MotionPrompt\Intermediate\Build\Win64\x64\UnrealEditor\Development\MotionPrompt\UnrealEditor-MotionPrompt.lib"
