@@ -1,6 +1,3 @@
-Got it—here’s a tightened README you can drop in, with the scope clarified for **hard-surface rigs** (tanks, helicopters, ships, cranes, etc.). I also marked humanoids as **experimental** for now.
-
----
 
 # MotionPrompt — JSON-Driven Animation from LLM Prompts (UE5)
 
